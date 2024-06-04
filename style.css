@@ -33,6 +33,8 @@ background-size: contain;
 .container{
 
     height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
 
 .container{
@@ -43,4 +45,4 @@ color: var(--branco-principal);
 display: block;
 
 
-}
+} 
